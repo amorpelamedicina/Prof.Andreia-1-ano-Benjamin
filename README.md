@@ -6,3 +6,6 @@ Resumo dos conteúdo trabalhados na disciplina de Pensamento Computacional - 2°
 
 ## 28/Julho
 Descrição do Repositório, organização da implementação de atividade no curso de Formação em Pensamento Computacional
+
+#09/08
+Aluno Lucas Sanches: submissão do resumo para avaliação.
